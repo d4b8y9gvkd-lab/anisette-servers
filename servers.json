@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "Nil's Server"
-      "address": "http://anisette-v3-server-rwiu.onrender.com"
+      "address": "https://anisette-v3-server-rwiu.onrender.com"
     },
     {
       "name": "SideStore",
