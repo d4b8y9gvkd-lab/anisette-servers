@@ -1,8 +1,8 @@
 {
   "servers": [
     {
-      "name": "Nil's Server"
-      "address": "https://anisette-v3-server-rwiu.onrender.com"
+      "name": "Nil's Server",
+      "address": "https://anisette-v3-server-rwiu.onrender.com/"
     },
     {
       "name": "SideStore",
